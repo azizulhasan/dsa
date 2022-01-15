@@ -1,5 +1,3 @@
-
-
 // find the index of a given value.
 // if not found the index of a given number then return false
 /************************************
