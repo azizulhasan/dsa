@@ -143,3 +143,4 @@ class Node {
   // ll.getAt(2);
   
   ll.printListData();
+  console.log(ll)
